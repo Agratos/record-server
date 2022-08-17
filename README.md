@@ -11,4 +11,12 @@
  - 네비게이션 바
  - 재생 파일 관리 검색 창
 
+### 프론트 초점
+ - 최대한 최적화에 신경 씀
+   - useState 선언위치
+   - onChange 최적화 (axios - setTimeout)(useRef 사용)
+   - React.memo
+   - useHook - useCallback
+   - navigation 선언 위치
+
 ### 백엔드는 다른 사람이 작성
